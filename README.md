@@ -12,6 +12,23 @@ Open source CAD models and C# software for making a low-cost IR-MALDESI instrume
 * [Ultra-High-Throughput Ambient MS: Direct Analysis at 22 Samples per Second by Infrared Matrix-Assisted Laser Desorption Electrospray Ionization Mass Spectrometry](https://doi.org/10.1021/acs.analchem.1c04605)
 * [High Throughput Intact Protein Analysis Using Infrared Matrix-Assisted Laser Desorption Electrospray Ionization Mass Spectrometry](https://doi.org/10.1101/2021.11.08.467755)
 
+## BOM
+
+### Purchased
+* Mid-IR ablation laser - JGM Associates Inc
+* 6-axis robot and gripper - TEKMATIC Meca500 robot system + MEGP25 + MGC-AA25
+* (optional) 3D printer - Mark Forged Onyx-One
+* 3D scanner - Keyence IX-360 + IX-H2000 + OP-88347 + OP-87903 + DL-EN1
+* Safety laser scanner - Keyence SZ-V series
+* Arduino Mega Rev3
+* Power supplies and terminals - Phoenix Contact 2866763 +  2866284 + 2315256 
+* Optics - Thorlabs KCB05 + LA5183-E + PF05-03-M02 + SM05V10 + SM05L10
+* Syringe pump
+* Tecan Roma Gripper
+* High voltage connector - Thermo 80100-63141
+
+### Custom fabrication
+
 ## Laser
 
 [Characterization of a novel miniaturized burst-mode infrared laser system for IR-MALDESI mass spectrometry imaging](https://doi.org/10.1007/s00216-018-0918-9)
