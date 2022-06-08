@@ -17,7 +17,6 @@ Open source CAD models and C# software for making a low-cost IR-MALDESI instrume
 ### Purchased
 * Mid-IR ablation laser - JGM Associates Inc
 * 6-axis robot and gripper - TEKMATIC Meca500 robot system + MEGP25 + MGC-AA25
-* (optional) 3D printer - Mark Forged Onyx-One
 * 3D scanner - Keyence IX-360 + IX-H2000 + OP-88347 + OP-87903 + DL-EN1
 * Safety laser scanner - Keyence SZ-V series
 * Arduino Mega Rev3
@@ -28,6 +27,8 @@ Open source CAD models and C# software for making a low-cost IR-MALDESI instrume
 * High voltage connector - Thermo 80100-63141
 
 ### Custom fabrication
+* (optional) 3D printer - Mark Forged Onyx-One
+* 
 
 ## Laser
 
