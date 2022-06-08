@@ -3,7 +3,7 @@ Open source CAD models and C# software for making a low-cost IR-MALDESI instrume
 
 [Video](https://github.com/abbvie-external/IR-MALDESI-MS/tree/main/Media/6-axis Robot.mp4)
 
-!(../main/Media/3DModel.png "3D Model")
+![alt text](../main/Media/3DModel.png "3D Model")
 
 
 ## Relevant publications
