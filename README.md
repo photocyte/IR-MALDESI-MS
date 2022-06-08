@@ -1,9 +1,10 @@
 # IR-MALDESI-MS
 Open source CAD models and C# software for making a low-cost IR-MALDESI instrument
 
-[Video](https://github.com/abbvie-external/IR-MALDESI-MS/tree/main/Media/6-axis Robot.mp4)
+![Video](https://github.com/abbvie-external/IR-MALDESI-MS/tree/main/Media/6-axis Robot.mp4)
 
-[3D Model](https://github.com/abbvie-external/IR-MALDESI-MS/tree/main/Media/3DModel.png)
+![3D Model](https://github.com/abbvie-external/IR-MALDESI-MS/tree/main/Media/3DModel.png)
+
 
 ## Relevant publications
 
