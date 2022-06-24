@@ -28,10 +28,26 @@ Open source CAD models and C# software for making a low-cost IR-MALDESI instrume
 
 ### Custom fabrication
 * (optional) 3D printer - Mark Forged Onyx-One
-* 
 
 ## Laser
 
 [Characterization of a novel miniaturized burst-mode infrared laser system for IR-MALDESI mass spectrometry imaging](https://doi.org/10.1007/s00216-018-0918-9)
 
 JGM Associates Inc. (JGMA; Burlington, MA) designs and makes custom OEM lasers for instrument applications, including LIBS, mass spectrometry, microscopy, and flow cytometry among other. JGMA works closely with prospective OEM customers who may eventually purchase lasers in some volume for use in their instruments and prefers to get involved early in the customer's product development cycle. JGMA may be willing to provide a loaner laser, and do customization NRE, at no charge to the customer during development of a first custom prototype. The company has been developing lasers for IR-MALDESI ion sources for more than 6 years now.
+
+## Electrospray probe fabrication
+
+Parts:
+* IDEX F-333NX nut and F-245x nanotight tubing sleeve
+* Mouser 571-0460-202-1631 Automotive Connectors DT CON PIN #16 16-20 AWG
+* Digikey ED1082-ND CONN PC PIN CIRC 0.020DIA GOLD
+
+Steps:
+1) Cut off small segment of electrode on the other side of the larger diameter collar
+2) Crimp small diameter electrode and pin together
+3) Heat shrink just around largest diameter of pin
+4) Jam pin/heat shrink as deep as you can in ferrule
+5) Cut segment of F-245 to sheath
+6) Screw in tight to screw hole to lock
+
+![Electrode](https://github.com/abbvie-external/IR-MALDESI-MS/blob/master/Media/ElectrodeFab.png)
