@@ -35,7 +35,7 @@ Open source CAD models and C# software for making a low-cost IR-MALDESI instrume
 
 JGM Associates Inc. (JGMA; Burlington, MA) designs and makes custom OEM lasers for instrument applications, including LIBS, mass spectrometry, microscopy, and flow cytometry among other. JGMA works closely with prospective OEM customers who may eventually purchase lasers in some volume for use in their instruments and prefers to get involved early in the customer's product development cycle. JGMA may be willing to provide a loaner laser, and do customization NRE, at no charge to the customer during development of a first custom prototype. The company has been developing lasers for IR-MALDESI ion sources for more than 6 years now.
 
-## Electrospray probe fabrication
+## Electrospray electrode fabrication
 
 Parts:
 * IDEX F-333NX nut and F-245x nanotight tubing sleeve
